@@ -1,0 +1,26 @@
+body {
+    background-color: #1a1a1a;
+}
+
+h1 {
+    color: aliceblue;
+    font-size: 8em;
+    margin-top: 0%;
+    padding: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+img {
+    color: aliceblue;
+    width: 17em;
+    margin-left: 18em;
+    
+}
+
+p {
+    text-align: center;
+    color: aliceblue;
+    font-size: 4em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
